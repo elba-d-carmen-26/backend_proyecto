@@ -45,7 +45,7 @@ app.use((err, req, res, next) => {
 });
 
 // Iniciar servidor
-git
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
